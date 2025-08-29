@@ -1,0 +1,14 @@
+table{
+    background-color: aqua;
+}
+td{
+    background-color: lightpink;
+    text-align: center;
+}
+body{
+    height: 100px;
+    width: 10000px;
+}
+.DAY1{
+    background-color: light red;
+}
